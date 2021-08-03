@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! I am Vision 👋
+
+I'm a student at Tsinghua University, studying Artificial Intelligence in IIIS.
+
+🔭 I’m currently working on formula prediction for Excel.
+🌱 I’m currently learning natural language processing.
+⚡ Fun fact: Why does Vision study computer? Because Computer Vision! 🤓
+😄 Pronouns: she / her
 
 <!--
 **Azure-Vision/Azure-Vision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
